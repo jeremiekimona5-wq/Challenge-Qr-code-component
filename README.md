@@ -29,7 +29,8 @@ Users should be able to:
 ### Screenshot
 
 ![QR code component screenshot](./images/screenshot.png)  
-*(Add a screenshot of your solution by saving an image in the `images` folder and naming it `screenshot.png`)*
+<img width="656" height="665" alt="image" src="https://github.com/user-attachments/assets/09156340-ead6-4b73-986e-d3d8958c42fe" />
+
 
 ### Links
 
